@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Arya Araban
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Computer Engineer, Specializing in Artificial Intelligence 
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -38,18 +38,17 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: TheDevsLot
-# Name of the Author
-author-name: TheDevsLot
+author-name: Arya Araban
 # URL for the Image of the Author
 author-image: "/assets/images/profile.jpg"
 # Many Words About the Author
-author-about: Hey there. I'm Arya, a 23 year old computer engineering graduate. 
+author-about: Hey there! I'm Arya. I'm a 23 year old computer engineering graduate. My main interests consist of Artifical Intelligence, Computer Vision, and web development. I enjoy working out, outdoor activities, and reading in my free time. <br><br> You can check out me resume by clicking the link below!
 #short description about the author 
 short-about: Computer Engineering Graduate @ FUM. AI engineer, Web Developer
 
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/arya-araban
 
 # SASS
 sass:
