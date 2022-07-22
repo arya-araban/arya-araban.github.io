@@ -18,8 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-
+heroimage: "/assets/images/backgrounds/home-bg-2.jpg"
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: arya.araban21@gmail.com
@@ -42,7 +41,7 @@ author-name: Arya Araban
 # URL for the Image of the Author
 author-image: "/assets/images/profile.jpg"
 # Many Words About the Author
-author-about: Hey there! I'm Arya. I'm a 23 year old computer engineering graduate. My main interests consist of Artifical Intelligence, Computer Vision, and web development. I enjoy working out, outdoor activities, and reading in my free time. <br><br> You can check out me resume by clicking the link below!
+author-about: Hey there! I'm Arya. I'm a 23 year old computer engineering graduate. My main interests consist of Artifical Intelligence, Computer Vision, and web development. I enjoy working out, outdoor activities, and reading in my free time. <br><br> You can check out my resume by clicking the link below!
 #short description about the author 
 short-about: Computer Engineering Graduate @ FUM. AI engineer, Web Developer
 
