@@ -34,7 +34,8 @@ layout: compress
               </a>
             </p>
             {%- assign tags = page.tags -%}
-            {%- unless tags.size == 0 -%}
+            {{ page.tags | inspect }}
+            {%- if page.tags[0] != "" -%}
             <p class="subtitle is-uppercase">
               <i class="fas fa-tags"></i>
               {% assign i = 0 %}
@@ -43,7 +44,7 @@ layout: compress
               {% assign i = i | plus:1 %}
               {% endfor %}
             </p>
-            {%- endunless -%}
+            {%- endif -%}
             {% assign words = content | number_of_words %}
             {%- unless content.size == 0 -%}
             <p class="subtitle is-uppercase"><i class="fas fa-clock"></i> <b class="has-text-link">
