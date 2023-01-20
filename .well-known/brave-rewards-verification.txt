@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: arya-araban.github.io
+Token: 4a40fb123c17c55cff5b223de03baf9dab754704529fdb1a4accd802e60e3943
