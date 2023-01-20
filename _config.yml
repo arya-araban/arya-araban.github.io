@@ -41,7 +41,7 @@ author-name: Arya Araban
 # URL for the Image of the Author
 author-image: "/assets/images/profile.jpg"
 # Many Words About the Author
-author-about: Hey there! I'm Arya. I'm a 23 year old computer engineering graduate. My main interests consist of Artifical Intelligence, Computer Vision, and web development. I enjoy working out, outdoor activities, and reading in my free time. <br><br> You can check out my resume by clicking the link below!
+author-about: Hey there! I'm Arya. I'm a <script>document.write(new Date().getFullYear()-1999)</script> year old computer engineering graduate. My main interests consist of Artifical Intelligence, Computer Vision, and web development. I enjoy working out, outdoor activities, and reading in my free time. <br><br> You can check out my resume by clicking the link below!
 #short description about the author 
 short-about: Computer Engineering Graduate @ FUM. AI Engineer, Web Developer
 #path to CV 
